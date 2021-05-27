@@ -74,6 +74,11 @@ video {
     width: 100%;
 }
 
+.nav-tag {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
 /* Middle Left Section */
 
 .mid-left-sec {
@@ -162,10 +167,15 @@ video {
     margin-bottom: 15%;
 }
 
-.Navigate {
+.navigate {
     text-align: center;
     background-color: #2c3739;
     margin: 5px;
+}
+
+.navigate-items {
+    font-weight: 900;
+    margin: 20px 10px;
 }
 
 /* Footer Section */
