@@ -1,0 +1,177 @@
+body {
+    margin: 2rem 3% 2rem;
+
+}
+
+p {
+    font-size: 1.05rem;
+}
+
+.top-a{
+    margin: 0 5%;
+}
+
+
+.card-text {
+    font-size: .9rem;
+}
+
+.top-container {
+    position: relative;
+    margin-top: 30px;
+
+}
+
+.h2-container {
+    background-color: rgb(155, 155, 155);
+    margin: 5px;
+
+}
+
+.image-banner {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 500px;
+    background-color: grey;
+}
+
+.company-image {
+    height: 6rem;
+    width: 6rem;
+    float: left;
+    margin-right: 2rem;
+
+}
+
+.heading-container {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.language{
+    position: relative;
+    left: 42.7%;
+}
+
+.more-links{
+    padding-top: 10%;
+    margin-right: -75px;
+    font-size: 1rem;
+    width: 500px;
+}
+
+
+
+.language-list {
+    margin-left: auto;
+}
+
+/* Middle Left Container  */
+.mid-left-sec {
+
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.story-image {
+    height: 13rem;
+    width: 13rem;
+    background-color: grey;
+    margin: 25px;
+    margin-top: 42px;
+    float: left;
+}
+
+.mid-bottom {
+    margin-top: 2rem;
+}
+
+.mid-top {
+    margin-top: 50px;
+    margin-right: 25px;
+    padding-bottom: 60px;
+}
+
+.btn-div {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.btn-1 {
+    margin-right: 5%;
+
+}
+
+.btn-2 {
+    margin-left: 5%;
+}
+
+/* Middle Right Section */
+.mid-right-sec {
+
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.mid-bottom-details {
+    margin: 25px;
+}
+
+.container {
+    margin: 0%;
+}
+
+.bottom-details {
+    margin-top: 60px;
+}
+
+.part-1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.Navigate {
+    text-align: center;
+    background-color: #808080;
+    margin: 5px;
+}
+
+video {
+    margin: 20px;
+    width: 75%;
+}
+
+.social {
+    
+    margin: 50% 20%;
+    margin-bottom: 15%;
+}
+
+.social-1{
+    text-align: center;
+    background-color: grey;
+}
+
+/* Footer Section */
+.footer {
+    text-align: center;
+}
+
+.foot-p {
+    padding-top: 30px;
+    font-size: .9rem;
+}
+
+.footer-tag {
+
+    margin: 30px;
+}
