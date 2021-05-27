@@ -56,6 +56,11 @@ video {
     width: 376px;
 }
 
+.dropdown{
+    position: absolute;
+    right: 0px;
+}
+
 /* Top Section */
 
 .top-container {
@@ -192,34 +197,4 @@ video {
 .foot-p {
     padding-top: 30px;
     font-size: .9rem;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.dropdown{
-    position: absolute;
-    right: 0px;
 }
